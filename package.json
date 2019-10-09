@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hamidhmz/artificial-intelligence-exercise#readme",
   "dependencies": {
+    "brain.js": "^2.0.0-alpha.9",
     "nodemon": "^1.19.3"
   }
 }
