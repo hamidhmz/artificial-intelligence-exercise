@@ -11,4 +11,4 @@ network.train([
 
 const output = network.run([1, 0, 0]);
 
-console.log(`Prob: ${output}`);
+console.log(`resolve: ${output}`);
