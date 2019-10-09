@@ -1,0 +1,19 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "this is for exercise on artificial intelligence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/artificial-intelligence-exercise.git"
+  },
+  "author": "hamidreza nasrollahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/artificial-intelligence-exercise/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/artificial-intelligence-exercise#readme"
+}
