@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hamidhmz/artificial-intelligence-exercise/issues"
   },
-  "homepage": "https://github.com/hamidhmz/artificial-intelligence-exercise#readme"
+  "homepage": "https://github.com/hamidhmz/artificial-intelligence-exercise#readme",
+  "dependencies": {
+    "nodemon": "^1.19.3"
+  }
 }

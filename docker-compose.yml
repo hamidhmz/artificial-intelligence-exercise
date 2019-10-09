@@ -1,0 +1,10 @@
+version: "3"
+services: 
+  app:
+    restart: always
+    build: .
+    volumes:
+      - ./:/var/www/html/app
+    tty: true
+    ports:
+      - "8583:8583"
